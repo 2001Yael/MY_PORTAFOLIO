@@ -1,0 +1,17 @@
+{
+    "name": "Portafolio Dinámico - Yael Romero",
+    "short_name": "Portafolio",
+    "description": "Un portafolio dinámico de Yael Romero",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3498db",
+    "icons": [
+      {
+        "src": "img/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
